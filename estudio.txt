@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-Ya esta solucionado
-=======
-Listo problema resueto
-
-
->>>>>>> 1425cd25505802b51bff009d21756940a4fd34da
+por fin esta solucionado
